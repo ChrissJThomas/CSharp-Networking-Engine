@@ -1,0 +1,5 @@
+<<<<<<< HEAD
+m_EditorVersion: 2017.4.23f1
+=======
+m_EditorVersion: 2017.4.20f2
+>>>>>>> refs/remotes/origin/master
